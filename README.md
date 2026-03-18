@@ -21,9 +21,9 @@ Structs and typedef in C++
 
 How to Run
 Online (easiest)
-Paste Lab_9.cpp into onlinegdb.com, set language to C++, and upload netflix.csv as the input file.
+Paste main.cpp into onlinegdb.com, set language to C++, and upload netflix.csv as the input file.
 Local (requires g++)
-bashg++ -o netflix_search Lab_9.cpp
+bashg++ -o netflix_search main.cpp
 ./netflix_search
 Place netflix.csv in the same directory before running.
 
